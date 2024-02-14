@@ -1,0 +1,14 @@
+C:\Users\abinm\Videos\New folder\Delegates_Events\bin\Debug\net7.0\Delegates_Events.exe
+C:\Users\abinm\Videos\New folder\Delegates_Events\bin\Debug\net7.0\Delegates_Events.deps.json
+C:\Users\abinm\Videos\New folder\Delegates_Events\bin\Debug\net7.0\Delegates_Events.runtimeconfig.json
+C:\Users\abinm\Videos\New folder\Delegates_Events\bin\Debug\net7.0\Delegates_Events.dll
+C:\Users\abinm\Videos\New folder\Delegates_Events\bin\Debug\net7.0\Delegates_Events.pdb
+C:\Users\abinm\Videos\New folder\Delegates_Events\obj\Debug\net7.0\Delegates_Events.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abinm\Videos\New folder\Delegates_Events\obj\Debug\net7.0\Delegates_Events.AssemblyInfoInputs.cache
+C:\Users\abinm\Videos\New folder\Delegates_Events\obj\Debug\net7.0\Delegates_Events.AssemblyInfo.cs
+C:\Users\abinm\Videos\New folder\Delegates_Events\obj\Debug\net7.0\Delegates_Events.csproj.CoreCompileInputs.cache
+C:\Users\abinm\Videos\New folder\Delegates_Events\obj\Debug\net7.0\Delegates_Events.dll
+C:\Users\abinm\Videos\New folder\Delegates_Events\obj\Debug\net7.0\refint\Delegates_Events.dll
+C:\Users\abinm\Videos\New folder\Delegates_Events\obj\Debug\net7.0\Delegates_Events.pdb
+C:\Users\abinm\Videos\New folder\Delegates_Events\obj\Debug\net7.0\Delegates_Events.genruntimeconfig.cache
+C:\Users\abinm\Videos\New folder\Delegates_Events\obj\Debug\net7.0\ref\Delegates_Events.dll
